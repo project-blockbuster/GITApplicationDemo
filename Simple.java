@@ -5,7 +5,7 @@ Class Simple{
 
    public static void main(){
    
-	   Print("Hello WOrld");
+	   Print("Hello First Branch");
    }
 
 }
